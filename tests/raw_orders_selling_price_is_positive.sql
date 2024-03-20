@@ -7,3 +7,6 @@ select orderid,
     from orders
     group by orderid 
     having total_sp < 0
+
+
+    
